@@ -1,4 +1,4 @@
-# Fly
+# surf mode console variables(cvars)
 
 ## Table of contents
 - [Gamemode settings](#gamemode-settings)
